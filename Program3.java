@@ -33,3 +33,18 @@ public class Program3 {
     System.out.println("The perimeter is: " + perimeter); 
 }
 }
+    
+
+
+
+//Paste console output below:
+/*
+Please enter the length: 
+45
+Please enter the width: 
+60
+The length is: 45
+The width is: 60
+The area is: 2700
+The perimeter is: 210
+
